@@ -1,12 +1,11 @@
 ``` mermaid
 %%{init: "quadrantChart": {"chartWidth": 800, "chartHeight": 700}, 
          "themeVariables": {"quadrant1TextFill": "#ff0000",
-         "quadrant3TextFill": "#00ff00",
-         "quadrant3TextFill": "#ff0000",
-         "quadrant4TextFill": "#ff00ff",
-         
-         
-         
+                            "quadrant3TextFill": "#00ff00",
+                            "quadrant3TextFill": "#ff0000",
+                            "quadrant4TextFill": "#ff00ff",
+                            "fillType0": "#ff00f0",
+                            "fillType1": "#0000f0",
          } 
          
          

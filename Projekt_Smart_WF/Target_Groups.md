@@ -9,7 +9,7 @@
 
 ### Definition
 
-Grobe Unterteilung A (Quantitativ):
+Grobe Unterteilung A (Quantitativ)[^bignote]
 * Menschen, die zu wenig Wasser trinken
 * Menschen, die zu viel Wasser trinken
 * Menschen, die kein Wasser trinken
@@ -28,30 +28,13 @@ Grobe Unterteilung B (Qualitativ):
 
 
 ### Analyse
+Erfolgt sobald das Produkt auf dem Markt platziert wurde und die Abverkäufe entprechend der Zielgruppendefinition zugeordnet werden konnten.
 
-- Lorem
-- IPsum
-- Dolorit
-- Lorem
-- IPsum
-- Dolorit
-- Lorem
-- IPsum
-- Dolorit
-- Lorem
-- IPsum
-- Dolorit
-- Lorem
-- IPsum
-- Dolorit
-- Lorem
-- IPsum
-- Dolorit
  
 
 
 
 
-[^1]: Business-to-Consumer.
-[^2]: Business-to-Business. 
-[^3]: 3. Quartal 2025
+[^1]: Abk. f: Business-to-Consumer.
+[^2]: Abk. f: Business-to-Business. 
+[^3]: 3. Quartal 2025.
