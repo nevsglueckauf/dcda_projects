@@ -1,5 +1,5 @@
 ``` mermaid
-%%{init: "quadrantChart": {"chartWidth": 800, "chartHeight": 700}, 
+%%{init: "quadrantChart": {"chartWidth": 950, "chartHeight": 700}, 
          "themeVariables": {"quadrant1TextFill": "#ff0000",
                             "quadrant3TextFill": "#00ff00",
                             "quadrant3TextFill": "#ff0000",
