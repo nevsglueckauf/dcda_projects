@@ -30,8 +30,9 @@ Grobe Unterteilung B (Qualitativ):
 ---
 config:
   look: handDrawn
-  theme: neutral
+  theme: forest
 ---
+
 mindmap
     root((Zielgruppen))
             Quantitativ

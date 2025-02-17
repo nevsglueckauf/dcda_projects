@@ -3,7 +3,7 @@ s3/
 tmp/
 .vscode
 .venv*
-
+*.pptx
 
 # Object file
 *.o
