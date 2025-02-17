@@ -1,7 +1,7 @@
 ``` mermaid
 %%{init: "quadrantChart": {"chartWidth": 1650, "chartHeight": 700}, 
-         "themeVariables": {"quadrant1TextFill": "#ff0000",
-                            "quadrant3TextFill": "#00ff00",
+         "themeVariables": {"quadrant1Fill": "#ff0000",
+                            "quadrant2TextFill": "#00ff00",
                             "quadrant3TextFill": "#ff0000",
                             "quadrant4TextFill": "#ff00ff",
                             "fillType0": "#ff00f0",
@@ -41,9 +41,11 @@ quadrantChart
     "- Seltene Erden": [0.75, 0.2] color: #ffff00, radius: 1
     "- HLT": [0.75, 0.15] color: #ffff00, radius: 1
 
+  
+
 ```
 
 
 <br><br><br><br><br><br><br><br><hr>
 <p><small>[^radio] - LPWA: low power wide area; BT: Bluetooth
-[^hlt] - HKT_ Halbleitertechnik</small></p>
+[^hlt] - HLT_ Halbleitertechnik</small></p>

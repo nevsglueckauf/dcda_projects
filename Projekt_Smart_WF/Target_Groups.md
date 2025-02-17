@@ -25,7 +25,31 @@ Grobe Unterteilung B (Qualitativ):
     * Verhaltensvariation nach medizinisch / ärztlicher Konsultation
     * Bedenken von Risiken
     
+### Mindmap (Ausschnitt)
+```mermaid
+---
+config:
+  look: handDrawn
+  theme: neutral
+---
+mindmap
+    root((Zielgruppen))
+            Quantitativ
+              Menschen, die zu wenig Wasser trinken
+              Menschen, die zu viel Wasser trinken
+              Menschen, die kein Wasser trinken
 
+            Qualitativ
+              Intrinsisch motiviert:
+                Gesundheitliche Probleme
+                Bedenken von Risiken
+                Sportlich motivierte Veränderung des Trinkverhaltens
+
+              Extrinsisch motiviert:
+                Gesundheitliche Probleme
+                Verhaltensvariation nach medizinisch / ärztlicher Konsultation
+                Bedenken von Risiken
+```
 
 ### Analyse
 Erfolgt sobald das Produkt auf dem Markt platziert wurde und die Abverkäufe entprechend der Zielgruppendefinition zugeordnet werden konnten.
