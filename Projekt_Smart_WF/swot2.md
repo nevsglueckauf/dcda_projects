@@ -1,15 +1,9 @@
 ``` mermaid
-%%{init: "quadrantChart": {"chartWidth": 1650, "chartHeight": 700}, 
-         "themeVariables": {"quadrant1Fill": "#ff0000",
-                            "quadrant2TextFill": "#00ff00",
-                            "quadrant3TextFill": "#ff0000",
-                            "quadrant4TextFill": "#ff00ff",
-                            "fillType0": "#ff00f0",
-                            "fillType1": "#0000f0",
-         } 
-         
-         
-         }%%
+---
+config:
+  look: handDrawn
+  theme: base
+---
 quadrantChart
     title SWOT Analyse
     quadrant-1 Weaknesses
