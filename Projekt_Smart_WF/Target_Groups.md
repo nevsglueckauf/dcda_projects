@@ -9,7 +9,7 @@
 
 ### Definition
 
-Grobe Unterteilung A (Quantitativ)[^bignote]
+Grobe Unterteilung A (Quantitativ)
 * Menschen, die zu wenig Wasser trinken
 * Menschen, die zu viel Wasser trinken
 * Menschen, die kein Wasser trinken
